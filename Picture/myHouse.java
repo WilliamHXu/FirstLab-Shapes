@@ -1,5 +1,5 @@
 
-public class Picture
+public class myHouse
 {
     private Square background;
     private Square lawn;
@@ -23,7 +23,7 @@ public class Picture
     /**
      * Constructor for objects of class Picture
      */
-    public Picture()
+    public myHouse()
     {
         // nothing to do... instance variables are automatically set to null
     }
